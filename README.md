@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Kacper and I am a Student in Cracow University of Technology<br><br>📫 How to reach me fryt.kacper1@gmail.com<br>🌱 I’m currently learning new technologies to improve my Web Developer skills</p>
+<p align="left">My name is Kacper and I am a Student in Cracow University of Technology<br><br>📫 How to reach me <b>fryt.kacper1@gmail.com</b><br>🌱 I’m currently learning new technologies to improve my <b>Web Developer</b> skills<br>♟️ <b>Exploring new places</b> | <b>New technologies</b> | <b>Postapocalyptic literature</b></p>
 
 ###
 
@@ -43,6 +43,20 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
 
 ###
