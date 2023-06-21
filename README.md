@@ -1,25 +1,64 @@
-<h1 align="center">Hello 👋, My name is Kacper</h1>
-<h3 align="center">I am a Student in Cracow University of Technology</h3>
+<h1 align="center">Hey there 👋</h1>
 
-- 📫 How to reach me **fryt.kacper1@gmail.com**
+###
 
-- 🌱 I’m currently learning **new technologies to improve my Web Developer skills**
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fryt-kacper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fryt-kacper" height="30" width="40" /></a>
-<a href="https://instagram.com/frytqa89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frytqa89" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </p>
+<p align="left">My name is Kacper and I am a Student in Cracow University of Technology<br><br>📫 How to reach me fryt.kacper1@gmail.com<br>🌱 I’m currently learning new technologies to improve my Web Developer skills</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arax734&show_icons=true&locale=en&layout=compact" alt="arax734" /></p>
-<p><img src="https://github.r2v.ch/codewars?user=Arax734&name=true&stroke=rgb(0,0,0)&top_languages=true&hide_clan=true&theme=gradient_by_level"></p>
+###
+
+<h3 align="left">🌐 Socials</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fryt-kacper/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/frytqa89/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arax734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=Arax734&name=true&stroke=rgb(0,255,0)&top_languages=true&hide_clan=true&theme=gradient_by_level" alt="stats graph"  />
+</div>
+
+###
