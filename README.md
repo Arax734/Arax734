@@ -8,6 +8,10 @@
 
 <p align="left">My name is Kacper and I am a Student in Cracow University of Technology<br><br>📫 How to reach me <b>fryt.kacper1@gmail.com</b><br>🌱 I’m currently learning new technologies to improve my <b>Web Developer</b> skills<br>♟️ <b>Exploring new places</b> | <b>New technologies</b> | <b>Postapocalyptic literature</b></p>
 
+<h3 align="left">💻 Designer of</h3>
+
+<p align="left"><ul><li>tonbud.pl</li></ul></p>
+
 ###
 
 <h3 align="left">🌐 Socials</h3>
