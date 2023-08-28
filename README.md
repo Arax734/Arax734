@@ -10,7 +10,7 @@
 
 <h3 align="left">💻 Designer of</h3>
 
-<p align="left"><ul><li>tonbud.pl</li></ul></p>
+<p align="left"><ul><li><a href="https://tonbud.pl/">tonbud.pl</a></li></ul></p>
 
 ###
 
