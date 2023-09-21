@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.r2v.ch/codewars?user=Arax734&name=true&stroke=rgb(0,255,0)&top_languages=true&hide_clan=true&theme=gradient_by_level" alt="stats graph"  />
+  <img src="https://github.r2v.ch/codewars?user=Arax734&name=true&top_languages=true&hide_clan=true&theme=gradient_by_level" alt="stats graph"  />
 </div>
 
 ###
