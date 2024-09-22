@@ -11,6 +11,7 @@
 
 <h3 align="left">💻 Designer of</h3>
 
+<p align="left"><ul><li><a href="http://kalia-rabka.pl/">kalia-rabka.pl</a></li></ul></p>
 <p align="left"><ul><li><a href="https://tonbud.pl/">tonbud.pl</a></li></ul></p>
 
 ###
