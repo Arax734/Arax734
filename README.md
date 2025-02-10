@@ -7,7 +7,7 @@
 ###
 
 <p align="left">My name is Kacper and I am a Student in Cracow University of Technology.<br><br>Currently I am also a teacher in technical school:
-  <br><ul><li><b>Software development</b></li><br><li><b>Designing advanced web and mobile applications</b></li><br><li><b>Object-oriented programming, testing and documentation of applications</b></li><br><br>📫 How to reach me <b>fryt.kacper1@gmail.com</b><br>🌱 I’m currently learning new technologies to improve my <b>Web Developer</b> skills<br>♟️ <b>Exploring new places</b> | <b>New technologies</b> | <b>Postapocalyptic literature</b></p>
+  <br><ul><li><b>Software development</b></li><br><li><b>Designing advanced web and mobile applications</b></li><br><li><b>Object-oriented programming, testing and documentation of applications</b></li><br><br>📫 How to reach me <b>fryt.kacper1@gmail.com</b><br>🌱 I’m currently learning new technologies to improve my skills<br>♟️ <b>Exploring new places</b> | <b>New technologies</b> | <b>Postapocalyptic literature</b></p>
 
 <h3 align="left">💻 Designer of</h3>
 
