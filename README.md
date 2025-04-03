@@ -17,8 +17,7 @@ Hello! My name is **Kacper**, and I am a **Student at Cracow University of Techn
 
 I have been involved in designing and developing various projects, including:
 
-- [**kalia-rabka.pl**](http://kalia-rabka.pl/)  
-- [**tonbud.pl**](https://tonbud.pl/)  
+- [**kalia-rabka.pl**](http://kalia-rabka.pl/)   
 
 <img height="20"/>
 
