@@ -25,7 +25,7 @@ I have been involved in designing and developing various projects, including:
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,cs" height="40" alt="Programming Languages" />
 </div>  
 
 ### **Frameworks & Libraries**
