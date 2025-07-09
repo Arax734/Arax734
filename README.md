@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! My name is **Kacper**, and I am a **Student at Cracow University of Technology** with a strong passion for computer engineering. Alongside my studies, I work as a **Teacher at a technical school**, where I specialize in:
+Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow University of Technology with a strong passion for software development. Alongside my academic journey, I have been working as a Teacher at a technical school, where I specialize in:
 
 - **Software development**  
 - **Designing advanced web and mobile applications**  
