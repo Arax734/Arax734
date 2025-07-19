@@ -30,6 +30,7 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40" alt="Databases" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>  
 
 ### **Development Tools**
