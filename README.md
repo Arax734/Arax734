@@ -17,7 +17,7 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,cs" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py" height="40" alt="Programming Languages" />
 </div>  
 
 ### **Frameworks & Libraries**
@@ -27,15 +27,16 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
 
 ### **Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Databases" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Databases" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
 </div>  
 
 ### **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,github,git,docker" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,github,git,docker,aws" height="40" alt="Development Tools" />
 </div>  
 
 <img height="20"/>
