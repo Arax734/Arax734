@@ -17,12 +17,12 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,py,cs" height="40" alt="Programming Languages" />
 </div>  
 
 ### **Frameworks & Libraries**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" height="40" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,dotnet" height="40" alt="Frameworks & Libraries" />
 </div>  
 
 ### **Databases**
