@@ -46,13 +46,3 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
 <div align="center">
   <img src="https://github-readme-stats-delta-rouge-19.vercel.app/api/top-langs?username=Arax734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2&cache_seconds=60" height="200" alt="GitHub Stats" />
 </div>
-
-<img height="20"/>
-
-## 🎶 Music 
-
-<div align="center">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6zwcby6eldh5afo02dcu4ihpr&unique={true})
-
-</div>
