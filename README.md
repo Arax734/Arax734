@@ -36,7 +36,7 @@ Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow U
 
 ### **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,github,git,docker,aws" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,github,git,docker,aws,azure" height="40" alt="Development Tools" />
 </div>  
 
 <img height="20"/>
