@@ -12,7 +12,7 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 
 - ♟️ Chess  
 - ✈️ Traveling and exploring new places  
--  Apple technologies and the latest tech trends  
+- 🍎 Apple technologies and the latest tech trends  
 - 📚 Post-apocalyptic literature  
 
 <img height="20"/>
