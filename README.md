@@ -26,7 +26,7 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 
 ### **Frameworks & Libraries**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" height="40" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" alt="Frameworks & Libraries" />
 </div>  
 
 ### **Databases**
