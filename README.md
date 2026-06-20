@@ -21,7 +21,7 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,cs,py" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,py" height="40" alt="Programming Languages" />
 </div>
 
 ### **Frameworks & Libraries**
