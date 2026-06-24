@@ -38,7 +38,7 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 
 ### **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,git,github,docker,aws,vscode,azure,visualstudio,androidstudio" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=idea,git,github,docker,aws,azure,vscode,visualstudio,androidstudio" height="40" alt="Development Tools" />
 </div>
 
 <img height="20"/>
