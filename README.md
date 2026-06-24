@@ -21,7 +21,7 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,py" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp,html,css" height="40" alt="Programming Languages" />
 </div>
 
 ### **Frameworks & Libraries**
@@ -32,16 +32,14 @@ Alongside my academic journey, I also gained experience as a Software Developmen
 ### **Databases**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="Databases" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle Logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,firebase" height="40" alt="Databases" />
 </div>  
 
 ### **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,github,git,docker,aws,azure" height="40" alt="Development Tools" />
-</div>  
+  <img src="https://skillicons.dev/icons?i=idea,git,github,docker,aws,vscode,azure,visualstudio,androidstudio" height="40" alt="Development Tools" />
+</div>
 
 <img height="20"/>
 
