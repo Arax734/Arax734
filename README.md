@@ -4,7 +4,7 @@
 
 Hello! My name is Kacper, and I am a Computer Engineering graduate from Cracow University of Technology, currently pursuing my Master’s degree in Computer Science with a specialization in Cybersecurity. I am passionate about software development and currently work as a Software Engineer.
 
-Alongside my academic journey, I also gained experience as a Software Development Instructor, where I worked with topics related to software development, modern web and mobile applications, and object-oriented programming.
+Previously, I gained valuable experience as a Software Development Instructor, where I worked with topics related to software development, modern web and mobile applications, and object-oriented programming.
 
 📫 **Contact:** fryt.kacper1@gmail.com
 
