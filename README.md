@@ -26,7 +26,7 @@ Previously, I gained valuable experience as a Software Development Instructor, w
 
 ### **Frameworks & Libraries**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind" height="40" alt="Frameworks & Libraries" />
 </div>  
 
 ### **Databases**
@@ -38,7 +38,7 @@ Previously, I gained valuable experience as a Software Development Instructor, w
 
 ### **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,git,github,docker,aws,azure,vscode,visualstudio,androidstudio" height="40" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=idea,git,github,netlify,docker,aws,azure,vscode,visualstudio,androidstudio" height="40" alt="Development Tools" />
 </div>
 
 <img height="20"/>
